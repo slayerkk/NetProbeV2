@@ -3,7 +3,7 @@
 TIMEOUT=20
 
 show_help() {
-  echo "Uso: $0 [OPÇÕES]"
+  echo "Uso: netprobe [OPÇÕES]"
   echo "Opções:"
   echo "  -r   Verificação rápida"
   echo "  -h   Exibir este painel de ajuda"
